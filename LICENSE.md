@@ -7,7 +7,7 @@ HTML و CSS للصفحة:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>الصفحة الشخصية - شوشو الغرباوي</title>
+    <title>الصفحة الشخصية Elgahrapawy</title>
     <style>
         body {
             font-family: Arial, sans-serif;
